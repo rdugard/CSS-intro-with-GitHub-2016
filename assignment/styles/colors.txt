@@ -1,0 +1,19 @@
+Background colors
+367F60 muted green- figure
+567F6E light grey- body and aside
+107F4F forest green- article
+19CC82 lighter green- header and footer
+
+link colors
+link 61AAFF
+visited 19497F
+focus FF9CD3
+hover FF56B5
+active 7F0428
+
+footer link colors
+footer link 0D3BFF
+footer visited 19497F
+footer focus FF449A
+footer hover CC1458
+footer active 7F0428
